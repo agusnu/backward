@@ -26,7 +26,7 @@ subprojects {
     group = 'com.docotel'
 
     ext.androidBuildTools = '26.0.2'
-    ext.androidTargetSdk = 26
+    ext.androidTargetSdk = 25
     ext.zxingCore = 'com.google.zxing:core:3.3.2'
 }
 
