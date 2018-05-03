@@ -6,7 +6,7 @@ import android.text.TextUtils;
 import java.util.ArrayList;
 import java.util.List;
 
-import static docotel.com.libscan.merchantqr.CreditCardValidator.format;
+import static com.docotel.scanner.model.CreditCardValidator.format;
 
 public class MerchantQr {
     private String qr;
