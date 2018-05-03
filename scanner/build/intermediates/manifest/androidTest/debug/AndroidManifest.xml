@@ -38,7 +38,7 @@
         <uses-library android:name="android.test.runner" />
 
         <activity
-            android:name="com.docotel.barcodescanner.CaptureActivity"
+            android:name="com.docotel.scanner.CaptureActivity"
             android:clearTaskOnLaunch="true"
             android:screenOrientation="sensorLandscape"
             android:stateNotNeeded="true"

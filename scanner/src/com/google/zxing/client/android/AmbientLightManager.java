@@ -23,8 +23,8 @@ import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
 import android.os.Handler;
 
-import com.docotel.barcodescanner.camera.CameraManager;
-import com.docotel.barcodescanner.camera.CameraSettings;
+import com.docotel.scanner.camera.CameraManager;
+import com.docotel.scanner.camera.CameraSettings;
 
 /**
  * Detects ambient light and switches on the front light when very dark, and off again when sufficiently light.

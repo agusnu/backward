@@ -22,7 +22,7 @@ import android.hardware.Camera;
 import android.os.Build;
 import android.util.Log;
 
-import com.docotel.barcodescanner.camera.CameraSettings;
+import com.docotel.scanner.camera.CameraSettings;
 
 import java.util.Arrays;
 import java.util.Collection;

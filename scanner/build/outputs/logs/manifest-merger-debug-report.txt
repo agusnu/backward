@@ -55,7 +55,7 @@ ADDED from E:\BELAJAR ANDROID\LIBRARY\backward\scanner\AndroidManifest.xml:31:3-
 		ADDED from E:\BELAJAR ANDROID\LIBRARY\backward\scanner\AndroidManifest.xml:31:17-53
 application
 ADDED from E:\BELAJAR ANDROID\LIBRARY\backward\scanner\AndroidManifest.xml:34:3-41:17
-activity#com.docotel.barcodescanner.CaptureActivity
+activity#com.docotel.scanner.CaptureActivity
 ADDED from E:\BELAJAR ANDROID\LIBRARY\backward\scanner\AndroidManifest.xml:35:7-40:66
 	android:screenOrientation
 		ADDED from E:\BELAJAR ANDROID\LIBRARY\backward\scanner\AndroidManifest.xml:37:17-60
@@ -68,4 +68,4 @@ ADDED from E:\BELAJAR ANDROID\LIBRARY\backward\scanner\AndroidManifest.xml:35:7-
 	android:theme
 		ADDED from E:\BELAJAR ANDROID\LIBRARY\backward\scanner\AndroidManifest.xml:39:17-58
 	android:name
-		ADDED from E:\BELAJAR ANDROID\LIBRARY\backward\scanner\AndroidManifest.xml:35:17-74
+		ADDED from E:\BELAJAR ANDROID\LIBRARY\backward\scanner\AndroidManifest.xml:35:17-67
